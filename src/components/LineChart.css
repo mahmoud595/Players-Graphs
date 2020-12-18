@@ -1,0 +1,19 @@
+.chart {
+
+    width: 720px;
+}
+.month {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-top: 3em;
+    padding-left: 2em;
+}
+.row-chart {
+    position: relative;
+    padding-right: 3em;
+}
+.attacking {
+    position: absolute;
+    top: 0;
+}

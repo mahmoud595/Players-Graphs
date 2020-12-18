@@ -1,0 +1,90 @@
+[
+  {
+    "playerx": [
+      {
+        "month": "Dec",
+        "Attacking": 65,
+        "Passing": 55,
+        "Technical": 76,
+        "Creativity": 60,
+        "Defencive": 40
+      },
+      {
+        "month": "Jan",
+        "Attacking": 55,
+        "Passing": 45,
+        "Technical": 77,
+        "Creativity": 56,
+        "Defencive": 45
+      },
+      {
+        "month": "Feb",
+        "Attacking": 75,
+        "Passing": 66,
+        "Technical": 71,
+        "Creativity": 67,
+        "Defencive": 50
+      },
+      {
+        "month": "Mar",
+        "Attacking": 67,
+        "Passing": 70,
+        "Technical": 80,
+        "Creativity": 77,
+        "Defencive": 48
+      },
+      {
+        "month": "Apr",
+        "Attacking": 72,
+        "Passing": 80,
+        "Technical": 76,
+        "Creativity": 78,
+        "Defencive": 60
+      }
+    ]
+  },
+  {
+    "playery": [
+      {
+        "month": "Dec",
+        "Attacking": 80,
+        "Passing": 89,
+        "Technical": 90,
+        "Creativity": 60,
+        "Defencive": 66
+      },
+      {
+        "month": "Jan",
+        "Attacking": 85,
+        "Passing": 79,
+        "Technical": 81,
+        "Creativity": 56,
+        "Defencive": 76
+      },
+      {
+        "month": "Feb",
+        "Attacking": 89,
+        "Passing": 74,
+        "Technical": 71,
+        "Creativity": 67,
+        "Defencive": 50
+      },
+      {
+        "month": "Mar",
+        "Attacking": 88,
+        "Passing": 70,
+        "Technical": 80,
+        "Creativity": 77,
+        "Defencive": 67
+      },
+      {
+        "month": "Apr",
+        "Attacking": 90,
+        "Passing": 80,
+        "Technical": 76,
+        "Creativity": 78,
+        "Defencive": 80
+      }
+    ]
+  }
+]
